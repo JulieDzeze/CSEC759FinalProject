@@ -51,4 +51,4 @@ Volalitity executable
 
 `python3 VolMemLyzer.py -o output.csv -V volatility memorydump(be2).dmp`
 
-## Note: Not all benign samples could be included here due to file size limitations. All files will be included in zipped folders in the final submission.
+### Note: Not all benign samples could be included here due to file size limitations. All files will be included in zipped folders in the final submission.
